@@ -17,5 +17,4 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-[Twitter](https://twitter.com/your-twitter-username)
+[LinkedIn](https://www.linkedin.com/in/yaseen-basha)
