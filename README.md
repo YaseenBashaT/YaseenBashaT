@@ -4,7 +4,7 @@
 - Currently learning new programming languages and technologies.
 - Working on various projects.
 - Open to collaboration on interesting projects.
-- Reach me at yaseen@example.com.
+- Reach me at yasenbasha96@gmail.com.
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaseenBashaT&show_icons=true)
